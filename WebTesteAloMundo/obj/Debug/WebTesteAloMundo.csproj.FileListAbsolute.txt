@@ -1,0 +1,4 @@
+C:\Cronnus\Emanuel\WebTesteAloMundo\WebTesteAloMundo\bin\WebTesteAloMundo.dll
+C:\Cronnus\Emanuel\WebTesteAloMundo\WebTesteAloMundo\bin\WebTesteAloMundo.pdb
+C:\Cronnus\Emanuel\WebTesteAloMundo\WebTesteAloMundo\obj\Debug\WebTesteAloMundo.dll
+C:\Cronnus\Emanuel\WebTesteAloMundo\WebTesteAloMundo\obj\Debug\WebTesteAloMundo.pdb
