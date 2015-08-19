@@ -10,7 +10,7 @@ namespace WebTesteAloMundo
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            
+            string q = "Lua";
         }
     }
 }
