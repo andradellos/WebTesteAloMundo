@@ -12,7 +12,6 @@ namespace WebTesteAloMundo
         {
             string q = "Lua";
             q = q + "-";
-            Certo
         }
     }
 }
